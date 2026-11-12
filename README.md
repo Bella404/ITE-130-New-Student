@@ -12,7 +12,7 @@
 
 
 
- ##HTML i kod över en simpel websida
+ ## HTML i kod över en simpel websida
 <!DOCTYPE html>
 <html lang="en">
 <head>
