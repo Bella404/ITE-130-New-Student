@@ -2,11 +2,11 @@
  #HTML
 
 
-### Vad är HTML?
+## Vad är HTML?
 - programmeringsspråk
 - Strukturera hemsidor med information genom organisera information på olika platser.
 
-### Vad kan det användas till?
+## Vad kan det användas till?
 - Bygga hemsidor och skapa interface
 - Kan skapa knappar och interaktiva objekt med hjälp av .css och js
 
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="StyleSheet1.css">
 </head>
 <body>
-    <h1>New MDU student</h1>
+    <h2>New MDU student</h2>
     <div id="navigation">
         <a href="sida1.html">Sida 1</a>
         <a href="sida2.html">Sida 2</a>
